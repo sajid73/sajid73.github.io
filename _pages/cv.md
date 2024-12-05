@@ -11,35 +11,30 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014 -->
+* B.S. in Computer Science & Engineering, Chittagong University of Engineering & Technology, 2024
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2023: Software Engineer Intern
+  * Spectrum Engineering Consortium Ltd
+  * Duties includes: Developing back-end and design front-end system
+  * Supervisor: Senior employees
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Reactjs, Nodejs & respective libraries for frontend and backend system in MERN stack
+* Data analysis
+  * Numpy
+  * Pandas
+  * Matplotlib
+* Machine Learning
+  * PyTorch
+  * Tensorflow
+  * NLP
+  * Audio analysis
+  * Multimodal
 
 Publications
 ======
@@ -47,11 +42,11 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  <!-- Talks
+  ======
+    <ul>{% for post in site.talks reversed %}
+      {% include archive-single-talk-cv.html  %}
+    {% endfor %}</ul> -->
   
 Teaching
 ======
@@ -61,4 +56,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently joined in <a href="https://greenleadglobal.org/">Green Lead</a> as Tech Solution Architect and providing my time and resource for enriching technical contribution.

@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sajid's portfolioq"
+title                    : "Sajid's portfolio"
 title_separator          : "-"
 name                     : &name "Md Sajidul Mowla"
 description              : &description "Prospective MS student in AI/ML"

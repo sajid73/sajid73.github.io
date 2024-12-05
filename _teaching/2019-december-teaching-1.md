@@ -8,7 +8,7 @@ date: 2019-12-01
 location: "Chittagong, Bangladesh"
 ---
 
-In total I teached 3 students. All of them were HSC students. I teached them from 2019 to 2020. It was only one year experience before covid lockdown.
+In total, I taught 3 students. All of them were HSC students. I teached them from 2019 to 2020. It was only one year experience before covid lockdown.
 
 Math
 ======
